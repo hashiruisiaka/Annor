@@ -1,2 +1,0 @@
-# Annor
-Official website
